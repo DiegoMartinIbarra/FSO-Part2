@@ -1,0 +1,1 @@
+"VITE_WEATHER_API_KEY=b0e4bccacbdca7a27e3f244944500798" && npm run dev
